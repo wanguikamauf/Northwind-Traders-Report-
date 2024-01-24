@@ -21,6 +21,7 @@ I used Excel's find and replace function to clean this characters.
 I then loaded the data for analysis.
 The data was analyzed using pivot tables and charts.
 ![Northwind Traders Dashboard](https://github.com/wanguikamauf/Northwind-Traders-Report-/assets/133157010/00cdc713-a2b2-4a02-a4a5-c617b9322ab3)
+![Northwind Traders 2](https://github.com/wanguikamauf/Northwind-Traders-Report-/assets/133157010/790ed60b-f554-4355-962c-b71c3366d468)
 On power BI I used the query to replace the '?' resulting from the characters not supported by SQL.
 I then split the date column to get separate columns for day, month and year.
 After loading the data to Power BI, I used DAX' measure functions to calculate totals as well as averages of various columns.
