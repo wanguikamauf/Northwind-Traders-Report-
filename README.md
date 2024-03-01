@@ -26,6 +26,7 @@ On power BI I used the query to replace the '?' resulting from the characters no
 I then split the date column to get separate columns for day, month and year.
 After loading the data to Power BI, I used DAX' measure functions to calculate totals as well as averages of various columns.
 The visualization was done using various visuals supported by Power BI.
+![power bi northwind](https://github.com/wanguikamauf/Northwind-Traders-Report-/assets/133157010/be7cce23-dbc3-420e-b055-63faf0341781)
 ![Northwind Traders Power BI Page 1](https://github.com/wanguikamauf/Northwind-Traders-Report-/assets/133157010/74ff3a23-14de-4111-9960-78cd1e27083e)
 ![NORTHWIND TRADERS POWER BI PAGE 2](https://github.com/wanguikamauf/Northwind-Traders-Report-/assets/133157010/89802817-acfb-4e1a-ac60-87b786dc2736)
 
